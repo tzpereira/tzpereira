@@ -2,25 +2,28 @@
 
 👨‍💻 **About Me**
 
-I architect and ship high-performance systems — from backend services and APIs to data pipelines, product features, and observability — end-to-end.  
-I’ve led engineering across microservices, ML pipelines, observability frameworks, and performance-critical features, plus crafted elegant interfaces.  
-Pragmatic and impact-driven, I’m tool-agnostic and pick what fits best for the project’s optimal design and architecture.
+Full Stack Engineer with 4+ years of experience designing and shipping **scalable, cloud-native systems** and **data-driven applications**.  
+I’ve delivered solutions that drive **multi-billion-dollar supply chain decisions**, boosted system performance by **50x**, and enabled **self-service analytics** that increased product adoption.  
+From backend microservices and ML pipelines to real-time dashboards and observability frameworks, I deliver end-to-end systems that balance **performance, reliability, and usability**.  
+Pragmatic and impact-driven, I’m tool-agnostic and pick what best fits each project’s architecture.
 
 ---
 
-### 📌 **Current Role**
+### 📌 **Current Role — Software Engineer @ VE3**  
+*(B2B Supply Chain & Data Intelligence Platform, Aug 2022 – Present)*
 
-- 🧱 **Software Engineer @ VE3** — Data Intelligence & Supply Chain  
-  - ⚙️ Delivered a full-stack microservice (Sell-Out MPS):  
-    - Go REST API orchestration  
-    - Python (EC2) for high-volume numerical processing  
-    - React frontend with interactive grids and charts
-  - 📈 Drove strategic planning tools, cutting response times by **60%** and optimizing SQL load by **50x**  
-  - 🧠 Refactored and maintained a Python sales forecasting engine:  
-    - Reduced technical debt  
-    - Implemented new features and improved workflow 
-  - 🔍 Built internal observability framework (Prometheus, Grafana, Bash)  
-  - 📊 Created S&OP dashboards with real-time and historical insights
+- 📊 **Developed a daily DRP dashboard** (Python + Polars) that directly impressed and helped secure a **multi-billion-dollar annual revenue client**.  
+- 🧠 **Refactored the Sales Forecasting Engine** (Python):  
+  - Improved pipeline performance and logging  
+  - Reduced technical debt and simplified workflows  
+  - Enhanced maintainability for daily runs across 25+ models and hundreds of thousands of records  
+- ⚙️ **Designed and deployed the Sell-Out MPS microservice**:  
+  - Go REST API orchestration  
+  - Python (AWS EC2 and S3, Polars) for high-volume numerical processing  
+  - React dashboards with interactive grids and charts  
+- 📈 **Implemented an embedded BI solution**, enabling users to run analytics and build dashboards **directly inside the system** — eliminating manual exports and third-party ETL/BI tools, which increased adoption and engagement across multiple departments.
+- 🚀 **Optimized SQL execution plans and ERDs**, boosting the main dashboard performance by **75%** and cutting query load by **50x**.  
+- 🔍 **Built an observability framework** (Prometheus, Grafana, Bash), reducing downtime with faster incident detection.  
 
 ---
 
