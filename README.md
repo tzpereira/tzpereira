@@ -13,23 +13,14 @@ Pragmatic and impact-driven, I’m tool-agnostic and choose what best fits each 
 ### 📌 **Current Role — Software & Data Engineer @ VE3**  
 *(B2B Supply Chain & Data Intelligence Platform, Aug 2022 – Present)*
 
-- 📊 **Developed a weekly/daily DRP/MRP dashboard** (Python + Polars) that impressed stakeholders and helped secure a **multi-billion-dollar annual revenue client**.  
-- 🧠 **Refactored the Sales Forecasting Engine (Python + Spark)**:  
-  - Simplified workflows for **25+ models** and hundreds of thousands of daily records  
-  - Improved performance, maintainability, and logging  
-  - Reduced technical debt across the pipeline  
-- ⚙️ **Designed and deployed the Sell-Out MPS microservice**:  
-  - Go REST API orchestration  
-  - Python (AWS EC2 + S3, Polars) for high-volume numerical processing  
-  - React dashboards with interactive grids and charts  
-- 💰 **Redesigned the pricing hierarchy logic**, replacing a heavy fixed-level system:  
-  - Reduced infrastructure footprint by **up to 10% per client environment**  
-  - Simplified end-user experience and configuration  
-  - Enabled flexible variable-based pricing across all hierarchy levels — from global to SKU
-- 📈 **Implemented an embedded BI solution**, allowing users to run analytics and build dashboards **directly inside the platform**, eliminating manual exports and third-party BI tools.  
-- 🚀 **Optimized SQL execution plans and ERDs**, boosting dashboard performance by **75%** and cutting query load by **50x**.  
-- 🔍 **Built an observability framework** (Prometheus, Grafana, Bash), reducing downtime with faster incident detection.  
-- 🌍 Delivered solutions adopted by **market leaders across industries** (food, consumer goods, electronics, manufacturing), supporting **global-scale operational and strategic decisions**.  
+- Built DRP/MRP dashboards (Python + Polars) that helped secure a multi-billion client
+- Refactored the Sales Forecasting Engine (Python + Spark) — 25+ models, 100k+ daily records
+- Designed the Sell-Out MPS microservice (Go + Python + React) for high-volume orchestration
+- Reduced infra footprint 10% per client, improved pricing logic flexibility
+- Embedded BI and self-service analytics directly into the platform
+- Boosted dashboard performance 75% and reduced SQL load 50x
+- Implemented observability (Prometheus + Grafana) to cut downtime
+- Delivered solutions adopted by global industry leaders
 
 ---
 
