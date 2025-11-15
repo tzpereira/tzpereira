@@ -2,7 +2,7 @@
 
 👨‍💻 **About Me**
 
-Full Stack Engineer with 4+ years of experience building **scalable, cloud-native systems** and **data-driven applications**.  
+Full Stack Engineer with 5 years of experience building **scalable, cloud-native systems** and **data-driven applications**.  
 I’ve delivered solutions that support **multi-billion-dollar supply chain decisions**, reduced infrastructure footprint, boosted performance, and enabled **self-service analytics** that increased adoption across departments.  
 
 Beyond coding, I work directly with **executives and managers at world-leading supply chain events in Brazil** (a global reference), abstracting complex business challenges into **scalable, reliable, and high-impact systems**.  
