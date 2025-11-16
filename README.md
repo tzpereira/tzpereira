@@ -1,49 +1,50 @@
-# I'm Mateus Pereira da Silva 👋
+# Mateus Pereira da Silva — Software & Data Engineer
 
 👨‍💻 **About Me**
 
-Software and Data Engineer with 5 years of experience building **scalable, cloud-native systems** and **data-driven applications**.  
-I’ve delivered solutions that support **multi-billion-dollar supply chain decisions**, reduced infrastructure footprint, boosted performance, and enabled **self-service analytics** that increased adoption across departments.  
+Software and Data Engineer specialized in large-scale systems, supply chain intelligence, and high-performance architectures.  
+I design, build, and optimize platforms that handle complex operational constraints — reliably, efficiently, and with measurable business impact.
 
-Beyond coding, I work directly with **executives and managers at world-leading supply chain events in Brazil** (a global reference), abstracting complex business challenges into **scalable, reliable, and high-impact systems**.  
-Pragmatic and impact-driven, I’m tool-agnostic and choose what best fits each architecture.
+I’ve delivered solutions supporting **multi-billion-dollar supply chain operations**, redesigned core services for scalability and cost efficiency, and led initiatives that improved analytics adoption and platform reliability across entire organizations.
 
----
-
-### 📌 **Current Role — Software & Data Engineer @ VE3**  
-*(B2B Supply Chain & Data Intelligence Platform, Aug 2022 – Present)*
-
-- Built DRP/MRP dashboards (Python + Polars) that helped secure a multi-billion client
-- Refactored the Sales Forecasting Engine (Python + Spark) — 25+ models, 100k+ daily records
-- Designed the Sell-Out MPS microservice (Go + Python + React) for high-volume orchestration
-- Reduced infra footprint 10% per client, improved pricing logic flexibility
-- Embedded BI and self-service analytics directly into the platform
-- Boosted dashboard performance 75% and reduced SQL load 50x
-- Implemented observability (Prometheus + Grafana) to cut downtime
-- Delivered solutions adopted by global industry leaders
+Pragmatic, outcome-driven, and tool-agnostic. I translate business problems into architecture, automation, and data-driven systems.
 
 ---
 
-### 🧠 **Tech Stack & Tools**
+## 📌 **Current Role — Software & Data Engineer @ VE3**  
+*(B2B Supply Chain & Data Intelligence Platform — Aug 2022 → Present)*
+
+### **Key Impact**
+- Delivered **DRP/MRP analytics (Python + Polars)** that helped secure a **multi-billion-dollar enterprise contract**
+- Architected the **Sell-Out MPS microservice** (Go + Python + React), enabling high-volume orchestration across global retail networks
+- Reduced infrastructure footprint **10% per client** while increasing pricing logic flexibility
+- Improved critical dashboards by **75%** and reduced SQL load **50×**, accelerating operational decision-making
+- Implemented **Prometheus + Grafana observability**, reducing incident resolution time and improving uptime
+- Scaled the **Sales Forecasting Engine** to **25+ ML models** running over **100k+ daily records**
+- Delivered platform features adopted by **global supply chain and retail industry leaders**
+
+---
+
+## 🧠 **Technical Skillset**
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-#### 💻 **Languages & Frameworks**
+### 💻 **Languages & Frameworks**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,php" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,fastapi" />
 </p>
 
-#### ☁️ **DevOps, Infra & Cloud**
+### ☁️ **DevOps, Infra & Cloud**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,grafana,cloudflare,prometheus" />
 </p>
 
-#### 🗃️ **Databases & Tooling**
+### 🗃️ **Databases & Tooling**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,npm,webpack,git,postman" />
@@ -52,7 +53,7 @@ Pragmatic and impact-driven, I’m tool-agnostic and choose what best fits each 
 </td>
 <td valign="top" width="50%">
 
-#### 📈 **GitHub Stats**
+### 📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzpereira" />
@@ -64,7 +65,7 @@ Pragmatic and impact-driven, I’m tool-agnostic and choose what best fits each 
 
 ---
 
-### 🌐 **Languages I Speak**
+## 🌐 **Languages**
 
 - 🇧🇷 Portuguese (native)  
 - 🇺🇸 English (fluent)  
@@ -72,7 +73,8 @@ Pragmatic and impact-driven, I’m tool-agnostic and choose what best fits each 
 
 ---
 
-### 📬 **Let’s Connect**
+## 📬 **Connect**
 
-- 📫 **Email:** [mateuspdasilva369@gmail.com](mailto:mateuspdasilva369@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/mateuspdasilva](https://linkedin.com/in/mateuspdasilva)  
+- **Email:** [mateuspdasilva369@gmail.com](mailto:mateuspdasilva369@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/mateuspdasilva](https://linkedin.com/in/mateuspdasilva)
+- **Website:** [mateuspdasilva](https://mateusdasilva.vercel.app/en)
