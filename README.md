@@ -35,7 +35,7 @@ Pragmatic, outcome-driven, and tool-agnostic. I translate business problems into
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,php" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=kafka,nodejs,react,nextjs,fastapi" />
 </p>
 
 ### ☁️ **DevOps, Infra & Cloud**
