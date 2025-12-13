@@ -41,7 +41,7 @@ Pragmatic, outcome-driven, and tool-agnostic. I translate business problems into
 ### ☁️ **DevOps, Infra & Cloud**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,grafana,cloudflare,prometheus" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp,nginx,grafana,cloudflare,prometheus" />
 </p>
 
 ### 🗃️ **Databases & Tooling**
