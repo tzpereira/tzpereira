@@ -2,12 +2,13 @@
 
 👨‍💻 **About Me**
 
-Software and Data Engineer specialized in large-scale systems, supply chain intelligence, and high-performance architectures.  
-I design, build, and optimize platforms that handle complex operational constraints — reliably, efficiently, and with measurable business impact.
+Software and Data Engineer specialized on large-scale systems, business intelligence, and high-performance architectures.
 
-I’ve delivered solutions supporting **multi-billion-dollar supply chain operations**, redesigned core services for scalability and cost efficiency, and led initiatives that improved analytics adoption and platform reliability across entire organizations.
+I design, build, and scale platforms that operate under complex operational constraints, with a strong focus on reliability, efficiency, and measurable business impact.
 
-Pragmatic, outcome-driven, and tool-agnostic. I translate business problems into architecture, automation, and data-driven systems.
+I have delivered solutions supporting multi-billion-dollar supply chain operations, modernized core services to improve scalability and cost efficiency, and led initiatives that increased analytics adoption and platform reliability across organizations.
+
+Pragmatic, outcome-driven, and tool-agnostic. I translate business problems into robust architectures, automation, and data-driven systems.
 
 ---
 
