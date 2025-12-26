@@ -29,7 +29,7 @@ Domain-agnostic by mindset. Strong where complexity, scale, and accountability m
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
 
 ### 💻 **Languages & Frameworks**
 
@@ -48,15 +48,6 @@ Domain-agnostic by mindset. Strong where complexity, scale, and accountability m
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,npm,webpack,git,postman" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzpereira" />
 </p>
 
 </td>
