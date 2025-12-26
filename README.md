@@ -25,34 +25,25 @@ Domain-agnostic by mindset. Strong where complexity, scale, and accountability m
 - Delivered platform features adopted by global enterprise customers
 ---
 
-## 🧠 **Technical Skillset**
+## <p align="center"><b>🧠 Technical Skillset</b></p>
 
-<table>
-  <tr>
-    <td valign="top" width="100%">
-
-### 💻 **Languages & Frameworks**
+### <p align="center">💻 <b>Languages & Frameworks</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,php" /><br>
-  <img src="https://skillicons.dev/icons?i=kafka,nodejs,react,nextjs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,php,kafka,nodejs,react,nextjs,fastapi&perline=12" />
 </p>
 
-### ☁️ **DevOps, Infra & Cloud**
+### <p align="center">☁️ <b>DevOps, Infra & Cloud</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp,nginx,grafana,cloudflare,prometheus" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp,nginx,grafana,cloudflare,prometheus&perline=12" />
 </p>
 
-### 🗃️ **Databases & Tooling**
+### <p align="center">🗃️ <b>Databases & Tooling</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,npm,webpack,git,postman" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,npm,webpack,git,postman&perline=12" />
 </p>
-
-</td>
-  </tr>
-</table>
 
 ---
 
