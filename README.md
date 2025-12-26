@@ -2,13 +2,13 @@
 
 👨‍💻 **About Me**
 
-Software and Data Engineer specialized on large-scale systems, business intelligence, and high-performance architectures.
+Senior Software & Data Engineer experienced in designing and scaling business-critical, data-intensive, and high-reliability systems across complex domains.
 
-I design, build, and scale platforms that operate under complex operational constraints, with a strong focus on reliability, efficiency, and measurable business impact.
+I excel at translating ambiguous business requirements into robust software architectures, automation, and data platforms that scale efficiently and remain observable in production.
 
-I have delivered solutions supporting multi-billion-dollar supply chain operations, modernized core services to improve scalability and cost efficiency, and led initiatives that increased analytics adoption and platform reliability across organizations.
+My background includes operating under high financial, operational, and data consistency constraints, requiring deep business understanding, system ownership, and pragmatic engineering decisions.
 
-Pragmatic, outcome-driven, and tool-agnostic. I translate business problems into robust architectures, automation, and data-driven systems.
+Domain-agnostic by mindset. Strong where complexity, scale, and accountability matter.
 
 ---
 
@@ -16,14 +16,13 @@ Pragmatic, outcome-driven, and tool-agnostic. I translate business problems into
 *(B2B Supply Chain & Data Intelligence Platform — Aug 2022 → Present)*
 
 ### **Key Impact**
-- Delivered **DRP/MRP analytics (Python + Polars)** that helped secure a **multi-billion-dollar enterprise contract**
-- Architected the **Sell-Out MPS microservice** (Go + Python + React), enabling high-volume orchestration across global retail networks
-- Reduced infrastructure footprint **10% per client** while increasing pricing logic flexibility
-- Improved critical dashboards by **75%** and reduced SQL load **50×**, accelerating operational decision-making
-- Implemented **Prometheus + Grafana observability**, reducing incident resolution time and improving uptime
-- Scaled the **Sales Forecasting Engine** to **25+ ML models** running over **100k+ daily records**
-- Delivered platform features adopted by **global supply chain and retail industry leaders**
-
+	•	Designed and delivered large-scale analytics systems (Python, Polars) supporting enterprise-critical decision making
+	•	Architected and owned distributed backend services (Go, Python, React) handling high-volume, multi-tenant workloads
+	•	Reduced infrastructure footprint by ~10% per client while improving configurability and scalability
+	•	Improved critical dashboards by 75% and reduced SQL load by 50×, increasing system throughput and reliability
+	•	Implemented end-to-end observability (Prometheus + Grafana), improving uptime and incident response
+	•	Scaled a production ML-driven engine to 25+ models processing millions of records/day
+	•	Delivered platform features adopted by global enterprise customers
 ---
 
 ## 🧠 **Technical Skillset**
