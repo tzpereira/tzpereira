@@ -2,7 +2,7 @@
 
 👨‍💻 **About Me**
 
-Senior Software & Data Engineer experienced in designing and scaling business-critical, data-intensive, and high-reliability systems across complex domains.
+Sr. Software & Data Engineer experienced in designing and scaling business-critical, data-intensive, and high-reliability systems across complex domains.
 
 I excel at translating ambiguous business requirements into robust software architectures, automation, and data platforms that scale efficiently and remain observable in production.
 
