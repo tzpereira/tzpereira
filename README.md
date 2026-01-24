@@ -1,4 +1,4 @@
-# Mateus Pereira da Silva — Software & Data Engineer
+# Mateus Pereira da Silva — Senior Software & Data Engineer — Data Platforms, Backend & ML Systems
 
 👨‍💻 **About Me**
 
