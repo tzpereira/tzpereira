@@ -1,8 +1,10 @@
 <div align="center">
 
-<a href="https://mateusdasilva.vercel.app/en/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Senior+Software+%26+Data+Engineer;Data+Platforms+%E2%80%A2+Backend+%E2%80%A2+ML+Systems;Building+things+that+scale+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Mateus%20Pereira%20da%20Silva&fontSize=34&fontColor=ffffff&desc=Product%20Engineer%20%C2%B7%20Solution%20Architect%20%C2%B7%20Software%20Engineer&descSize=16&descAlignY=68&color=0:111827,100:1f2937" alt="Mateus Pereira da Silva" />
+
+<br/>
+
+Building scalable software products across backend, data platforms, forecasting systems, and enterprise SaaS.
 
 <br/><br/>
 
@@ -14,57 +16,74 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Sr. Software & Data Engineer with a track record of designing and scaling **business-critical, data-intensive, and high-reliability systems** across complex domains.
+Product Engineer, Solution Architect, and Software Engineer with 5+ years of experience building scalable, data-intensive, and business-critical software products.
 
-I translate ambiguous business requirements into robust software architectures, automation, and data platforms — built to scale efficiently and stay observable in production. My work consistently sits at the intersection of **deep business understanding**, system ownership, and pragmatic engineering decisions, often under high financial, operational, and data-consistency constraints.
+I work across the full path from **business problem → product definition → technical architecture → production software**.
 
-Domain-agnostic by mindset. Strong where complexity, scale, and accountability matter.
-
----
-
-## 📌 Current Role — Software & Data Engineer @ VE3
-*(B2B Supply Chain & Data Intelligence Platform — Aug 2022 → Present)*
-
-| Area | Impact |
-|------|--------|
-| **Analytics** | Designed large-scale analytics systems (Python, Polars) powering enterprise-critical decision making |
-| **Backend** | Architected distributed services (Go, Python, React) handling high-volume, multi-tenant workloads |
-| **Infra** | Reduced infrastructure footprint by ~10% per client while increasing configurability and scalability |
-| **Performance** | Improved critical dashboards by 75% and cut SQL load by 50× |
-| **Observability** | Implemented full-stack observability with Prometheus + Grafana — improving uptime and incident response |
-| **ML** | Scaled a production ML engine to 25+ models processing millions of records/day |
+Strongest in complex SaaS, supply chain, retail, forecasting, data platforms, backend systems, and high-volume operational environments.
 
 ---
 
-## 🧠 Technical Skillset
+## Current Role
+
+**Product & Software Engineer @ VE3**  
+*B2B Supply Chain & Data Intelligence Platform · Aug 2022 → Present*
+
+Building and evolving mission-critical systems for supply chain, planning, forecasting, and retail operations across 30+ enterprise clients.
+
+Selected impact:
+
+- Shaped and delivered new product capabilities with stakeholders, connecting business needs, technical feasibility, and execution
+- Built DRP/MRP analytics with Python and Polars, supporting enterprise planning capabilities involved in a multi-billion-dollar retail opportunity
+- Designed and shipped backend services and integrations using Go, Python, PHP, TypeScript, and React
+- Reduced infrastructure footprint by 20%+ per client while improving configuration and pricing flexibility
+- Improved core dashboard performance by 75% and reduced SQL query load by up to 50×
+- Worked on production forecasting and data processing systems handling millions of records across multiple business scenarios
+
+---
+
+## Core Strengths
+
+- Product engineering and technical definition
+- Solution architecture and system design
+- Backend services and API development
+- Data-intensive systems and analytics
+- Forecasting, planning, and supply chain platforms
+- Multi-tenant SaaS architecture
+- Performance optimization and SQL tuning
+- Infrastructure efficiency and observability
+- End-to-end feature ownership
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
+
 <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,php,kafka,nodejs,react,nextjs,fastapi&perline=12" />
 
-### ☁️ DevOps, Infra & Cloud
+### Cloud, Infra & Observability
+
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp,nginx,grafana,cloudflare,prometheus&perline=12" />
 
-### 🗃️ Databases & Tooling
+### Databases & Tools
+
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,npm,webpack,git,postman&perline=12" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Languages
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tzpereira&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+🇧🇷 Portuguese · Native &nbsp;|&nbsp; 🇺🇸 English · C2 / Professional Fluency &nbsp;|&nbsp; 🇪🇸 Spanish · Beginner
 
 ---
 
-## 🌐 Languages
+## Contact
 
-🇧🇷 Portuguese · Native &nbsp;|&nbsp; 🇺🇸 English · Fluent &nbsp;|&nbsp; 🇪🇸 Spanish · Beginner
+[LinkedIn](https://linkedin.com/in/mateuspdasilva) · [Portfolio](https://mateusdasilva.vercel.app/en/) · [Email](mailto:mateuspdasilva369@gmail.com)
