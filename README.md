@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Mateus%20Pereira%20da%20Silva&fontSize=34&fontColor=ffffff&desc=Product%20Engineer%20%C2%B7%20Solution%20Architect%20%C2%B7%20Software%20Engineer&descSize=16&descAlignY=68&color=0:111827,100:1f2937" alt="Mateus Pereira da Silva" />
+# Mateus Pereira da Silva
 
-<br/>
+### Senior Product Engineer
+
+`Backend` · `Data` · `AI` · `Product Engineering`
 
 Building scalable software products across backend, data platforms, forecasting systems, and enterprise SaaS.
 
-<br/><br/>
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mateuspdasilva-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateuspdasilva)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mateusps.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://mateusps.vercel.app)
@@ -22,24 +24,34 @@ Product Engineer, Solution Architect, and Software Engineer with 5+ years of exp
 
 I work across the full path from **business problem → product definition → technical architecture → production software**.
 
-Strongest in complex SaaS, supply chain, retail, forecasting, data platforms, backend systems, and high-volume operational environments.
+My strongest experience is in complex SaaS, supply chain, retail, forecasting, data platforms, backend systems, and high-volume operational environments.
+
+---
+
+## At a Glance
+
+- 5+ years building and shipping production software
+- Senior Product Engineer at **VE3**
+- Experience across **backend, data, AI, and product engineering**
+- Built systems for **30+ enterprise clients**
+- Strongest in **multi-tenant SaaS**, **forecasting**, **data-intensive products**, and **operational platforms**
 
 ---
 
 ## Current Role
 
-**Product & Software Engineer @ VE3**  
+### **Senior Product Engineer @ VE3**
 *B2B Supply Chain & Data Intelligence Platform · Aug 2022 → Present*
 
 Building and evolving mission-critical systems for supply chain, planning, forecasting, and retail operations across 30+ enterprise clients.
 
-Selected impact:
+#### Selected Impact
 
-- Shaped and delivered new product capabilities with stakeholders, connecting business needs, technical feasibility, and execution
-- Built DRP/MRP analytics with Python and Polars, supporting enterprise planning capabilities involved in a multi-billion-dollar retail opportunity
+- Shaped and delivered product capabilities with stakeholders, connecting business needs, technical feasibility, and execution
+- Built DRP/MRP analytics with Python and Polars, supporting enterprise planning capabilities tied to a multi-billion-dollar retail opportunity
 - Designed and shipped backend services and integrations using Go, Python, PHP, TypeScript, and React
-- Reduced infrastructure footprint by 20%+ per client while improving configuration and pricing flexibility
-- Improved core dashboard performance by 75% and reduced SQL query load by up to 50×
+- Reduced infrastructure footprint by **20%+ per client** while improving configuration flexibility and pricing adaptability
+- Improved core dashboard performance by **75%** and reduced SQL query load by **up to 50×**
 - Worked on production forecasting and data processing systems handling millions of records across multiple business scenarios
 
 ---
@@ -62,16 +74,17 @@ Selected impact:
 
 <div align="center">
 
-### Languages & Frameworks
-
+#### Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,php,kafka,nodejs,react,nextjs,fastapi&perline=12" />
 
-### Cloud, Infra & Observability
+<br />
 
+#### Cloud, Infra & Observability
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp,nginx,grafana,cloudflare,prometheus&perline=12" />
 
-### Databases & Tools
+<br />
 
+#### Databases & Tools
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,npm,webpack,git,postman&perline=12" />
 
 </div>
@@ -80,10 +93,16 @@ Selected impact:
 
 ## Languages
 
-🇧🇷 Portuguese · Native &nbsp;|&nbsp; 🇺🇸 English · C2 / Professional Fluency &nbsp;|&nbsp; 🇪🇸 Spanish · Beginner
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Professional Fluency
+- 🇪🇸 Spanish — Beginner
 
 ---
 
 ## Contact
 
+<div align="center">
+
 [LinkedIn](https://linkedin.com/in/mateuspdasilva) · [Portfolio](https://mateusps.vercel.app) · [Email](mailto:mateuspdasilva369@gmail.com)
+
+</div>
