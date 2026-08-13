@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mateus Pereira 👋
+# Hi, I'm Mateus P. S. 
 
 ### Senior Software & Product Engineer
 
