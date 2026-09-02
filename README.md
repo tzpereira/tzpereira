@@ -2,7 +2,7 @@
 
 # Hi, I'm Mateus P. S.
 
-### Senior Product Engineer · Full Stack · AI Systems · Infrastructure
+### Senior Software Engineer · Product Engineering · AI Systems · Infrastructure
 
 `Product Engineering` · `Distributed Systems` · `AI Systems` · `Developer Infrastructure`
 
