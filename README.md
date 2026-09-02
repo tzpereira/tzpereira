@@ -103,7 +103,7 @@ Reusable Go infrastructure for Kafka producers and consumers, packaging connecti
 
 **Quality:** pytest, Jest, Playwright, Selenium, go test
 
-**Security:** Threat Modeling, Hardening, Pentest Remediation, Access & Secrets, YubiKey-Based Access Controls
+**Security:** Threat Modeling, Hardening, Pentest Remediation, Access & Secrets, Strong Access Controls
 
 **Architecture:** System Design, Multi-Tenant Systems, Scalability, Technical Trade-offs
 
