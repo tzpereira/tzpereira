@@ -83,21 +83,29 @@ Reusable Go infrastructure for Kafka producers and consumers, packaging connecti
 
 ## Tech I work with
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+**Languages:** Go, TypeScript, Python, JavaScript, SQL, PHP
+
+**Frontend:** React, Next.js, Vite, React Flow, Tailwind CSS
+
+**Backend:** Node.js, REST APIs, FastAPI, Flask, Microservices, Background Workers, Serverless Functions, Workflow Orchestration
+
+**Data:** PostgreSQL, MySQL, Redis, Polars, Prisma, Data Modeling, Query Optimization, Data Pipelines
+
+**Distributed Systems:** Event-Driven Architecture, Apache Kafka, AWS SQS, Distributed Workflows, SDKs
+
+**AI Systems:** RAG, Agent Workflows, Tool Calling, Structured Outputs, Context Management, AI Evaluation, MCP
+
+**AI Tooling:** LangGraph, LangSmith, OpenAI API, Claude API
+
+**Cloud & Infrastructure:** AWS Lambda, ECS, S3, RDS, API Gateway, Docker, Terraform, Cloudflare, Linux, CI/CD
+
+**Observability:** Prometheus, Grafana, CloudWatch, Production Monitoring, Incident Response
+
+**Quality:** pytest, Jest, Playwright, Selenium, go test
+
+**Security:** Threat Modeling, Hardening, Pentest Remediation, Access & Secrets, YubiKey-Based Access Controls
+
+**Architecture:** System Design, Multi-Tenant Systems, Scalability, Technical Trade-offs
 
 ---
 
